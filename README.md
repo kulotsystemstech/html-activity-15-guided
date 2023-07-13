@@ -112,7 +112,7 @@ Example:
 <p>
     <small>
         <b>NOTE:</b>
-        If the `type` attribute is not specified in an <code>&lt;input&gt;</code> tag,
+        If the <code>type</code> attribute is not specified in an <code>&lt;input&gt;</code> tag,
         its default type is <code>"text"</code>.
     </small>
 </p>
