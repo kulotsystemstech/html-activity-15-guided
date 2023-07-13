@@ -494,7 +494,7 @@ The submit button is created using a simple `<button>` tag with the label **"Sub
 
 **TODO:**
 Apply these form validation rules:
-1. **Full Name** and **E-mail Address** are required.
+1. **Full Name**, **Age**, and **E-mail Address** are required.
 2. **Age** must be from 13 to 45 only.
 3. Pre-select the "Male" **Gender** radio button.
 4. Pre-select the "HTML" **Web Technology** checkbox.
