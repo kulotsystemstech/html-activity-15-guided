@@ -482,7 +482,7 @@ The submit button is created using a simple `<button>` tag with the label **"Sub
 
 ---
 
-### Extra Attributes
+### Common Form Element Attributes
 
 | Form Element           | Attribute  | Description                                                                             |
 |------------------------|------------|-----------------------------------------------------------------------------------------|
